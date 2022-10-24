@@ -1,3 +1,5 @@
+<TOP TYPE html.>
+
 # Criando-um-arquivo-HTML
 
 <p><strong>Tunil do Tempo</strong>
